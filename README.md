@@ -1,3 +1,9 @@
+Retail Sales Analytics Project 
+
+Built an end-to-end data analytics solution to analyze retail sales data and generate business insights using Excel, SQL, Python, and Power BI. The project 
+covers data cleaning, database design, exploratory data analysis, and customer segmentation using RFM analysis.
+Developed an interactive Power BI dashboard to track key metrics such as sales performance, top products, store performance, and customer segments. This project demonstrates a complete ETL pipeline from raw data to actionable insights, helping businesses make data-driven decisions.
+
 Excel (Data Cleaning & Preparation) :
 Performed data cleaning and preprocessing using Excel by handling missing values, removing duplicates, standardizing column formats, and creating derived columns 
 like total_price. Used VLOOKUP/XLOOKUP for data merging and prepared structured CSV files for further analysis.
